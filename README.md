@@ -87,6 +87,3 @@ To populate the data and run the dashboard, execute the sequence of scripts:
 
 ---
 
-## Source and reuse
-
-This code was shared with permission for republication. This repository does not claim that the imported implementation was originally authored by its maintainer. No additional open-source license is granted by this notice.
